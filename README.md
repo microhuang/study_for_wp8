@@ -22,6 +22,18 @@ sql server compact edition
 
 > Microsoft.Phone.Tasks
 
+**联系人**
+
+> Microsoft.Phone.UserData.Contacts
+
+**日程**
+
+> Microsoft.Phone.UserData.Appointments
+
+**App联系人**
+
+> Microsoft.Phone.PersonalInformation.ContactInformation
+
 
 **图形**
 ```
