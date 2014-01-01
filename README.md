@@ -34,6 +34,10 @@ sql server compact edition
 
 > Microsoft.Phone.PersonalInformation.ContactInformation
 
+> Microsoft.Phone.PersonalInformation.ContactStore
+
+> Microsoft.Phone.PersonalInformation.StoredContact
+
 
 **图形**
 ```
