@@ -33,10 +33,11 @@ System.Windows.Media.Geometry
 System.Windows.Media.Animation
 ```
 
-异步编程模型
+异步编程模式
+
+> http://msdn.microsoft.com/zh-cn/library/jj152938%28v=vs.110%29.aspx
 ```
-基于委托
-响应式？？
-基于事件
-基于任务
+异步编程模型 (APM) 模式（也称为 IAsyncResult 模式）   基于委托？响应式？？
+基于事件的异步模式 (EAP) 
+基于任务的异步模式 (TAP)
 ```
