@@ -32,3 +32,11 @@ System.Windows.Media.Geometry
 动画
 System.Windows.Media.Animation
 ```
+
+异步编程模型
+```
+基于委托
+响应式？？
+基于事件
+基于任务
+```
