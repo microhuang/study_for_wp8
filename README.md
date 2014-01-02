@@ -18,6 +18,13 @@ System.IO.IsolatedStorage
 sql server compact edition
 ```
 
+**存储卡**
+```
+Microsoft.Phone.Storage.ExternalStorageDevice
+Microsoft.Phone.Storage.ExternalStorageFolder
+Microsoft.Phone.Storage.ExternalStorageFile
+```
+
 **启动器、选择器** 提供系统级别内置应用功能支持，选择器支持与当前应用通信，启动器则不支持。
 
 > Microsoft.Phone.Tasks
@@ -56,4 +63,15 @@ System.Windows.Media.Animation
 异步编程模型 (APM) 模式（也称为 IAsyncResult 模式）   基于委托？响应式？？
 基于事件的异步模式 (EAP) 
 基于任务的异步模式 (TAP)
+```
+
+
+
+
+```
+ApplicationSettings
+ApplicationData
+DataContent     --    SQL
+ExternalStorage
+MediaLibrary
 ```
