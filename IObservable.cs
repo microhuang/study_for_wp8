@@ -12,12 +12,16 @@ namespace ObservableDemo
         {
             InitializeComponent();
 
+/*
             Observable0 observable0 = new Observable0();
             Observer1 observer1 = new Observer1();
             Observer2 observer2 = new Observer2();
             observable0.SomethingHappened += observer2.HandleEvent;
             observable0.SomethingHappened += observer1.HandleEvent;
             observable0.DoSomething();
+*/
+
+//响应文本框与密码框的输入变化
 
             //将可观察序列的每个值投射到新表格中。
             IObservable<RoutedEventArgs> observable = Observable.Select<IEvent<TextChangedEventArgs>, RoutedEventArgs>
